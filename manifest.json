@@ -1,0 +1,15 @@
+{
+    "customApps": [
+        {
+            "internalName": "PLUGINS",
+            "name": "Plugins",
+            "description": "This application contains all plugins",
+            "author": "DEV Team",
+            "version": "1.0.0",
+            "icon": "https://example.com/apex/apps/custom_app/app-icon.svg",
+            "url": "https://example.com/apex/apps/custom_app",
+            "source": "https://example.com/apex/apps/custom_app/custom_app.sql",
+            "zip": "https://example.com/apex/apps/custom_app/custom_app.zip"
+        }
+    ]
+}
