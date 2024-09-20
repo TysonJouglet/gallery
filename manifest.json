@@ -4,12 +4,12 @@
             "internalName": "PLUGINS",
             "name": "Plugins",
             "description": "This application contains all plugins",
-            "author": "DEV Team",
+            "author": "Tyson Jouglet",
             "version": "1.0.0",
-            "icon": "https://example.com/apex/apps/custom_app/app-icon.svg",
-            "url": "https://example.com/apex/apps/custom_app",
-            "source": "https://example.com/apex/apps/custom_app/custom_app.sql",
-            "zip": "https://example.com/apex/apps/custom_app/custom_app.zip"
+            "icon": "https://raw.githubusercontent.com/TysonJouglet/gallery/refs/heads/main/apps/plugins/app-icon.svg",
+            "url": "https://raw.githubusercontent.com/TysonJouglet/gallery/refs/heads/main/apps/plugins",
+            "source": "https://raw.githubusercontent.com/TysonJouglet/gallery/refs/heads/main/apps/plugins/plugins.sql",
+            "zip": "https://raw.githubusercontent.com/TysonJouglet/gallery/refs/heads/main/apps/plugins/plugins.zip"
         }
     ]
 }
