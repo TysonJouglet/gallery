@@ -7,7 +7,7 @@
             "author": "Tyson Jouglet",
             "version": "1.0.0",
             "icon": "https://raw.githubusercontent.com/TysonJouglet/gallery/refs/heads/main/apps/plugins/app-icon.svg",
-            "url": "https://raw.githubusercontent.com/TysonJouglet/gallery/refs/heads/main/apps/plugins",
+            "url": "https://github.com/TysonJouglet/gallery/tree/main/apps/plugins",
             "source": "https://raw.githubusercontent.com/TysonJouglet/gallery/refs/heads/main/apps/plugins/plugins.sql",
             "zip": "https://raw.githubusercontent.com/TysonJouglet/gallery/refs/heads/main/apps/plugins/plugins.zip"
         }
